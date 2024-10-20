@@ -1,0 +1,16 @@
+.App {
+  min-height: 100vh;
+  padding: 2rem;
+  background-color: #4e4e4e;
+}
+
+.App-header {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+@media (max-width: 768px) {
+  .App {
+    padding: 1rem;
+  }
+}
